@@ -10,7 +10,7 @@ body {
     text-align: center;
     background-image: url("background2.jpg");
     background-size: 1920px 1166px;
-    background-position-y: -440px;
+    background-position-y: -470px;
     padding: 90px;
     line-height: 40px;
     transition: opacity 0.5s;
@@ -58,6 +58,55 @@ body {
     line-height: 30px;
     text-align:justify;
 }
+
+.education {
+    padding: 20px;
+    background-color: white; 
+    margin: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.education h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: black;
+    margin-left: 25px;
+}
+
+.education p {
+    font-size: 18px;
+    color: black;
+    margin-left: 25px;
+    margin-right: 25px;
+    line-height: 30px;
+    text-align:justify;
+}
+
+.experience {
+    padding: 20px;
+    background-color: white; 
+    margin: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.experience h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: black;
+    margin-left: 25px;
+}
+
+.experience p {
+    font-size: 18px;
+    color: black;
+    margin-left: 25px;
+    margin-right: 25px;
+    line-height: 30px;
+    text-align:justify;
+}
+
 
 .skillset{
     padding: 20px;
